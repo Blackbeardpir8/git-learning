@@ -1,4 +1,4 @@
 # git-learning
 learning Github and its features
 <br>
-Author - Deepak Yadav 
+Author - Deepak Yadav and Natsu 
